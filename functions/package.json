@@ -9,8 +9,12 @@
     "logs": "firebase functions:log"
   },
   "dependencies": {
+    "camelcase": "^5.0.0",
+    "cors": "^2.8.4",
     "firebase-admin": "~5.12.1",
-    "firebase-functions": "^1.0.3"
+    "firebase-functions": "^1.0.3",
+    "glob": "^7.1.2",
+    "moment": "^2.22.1"
   },
   "private": true
 }
